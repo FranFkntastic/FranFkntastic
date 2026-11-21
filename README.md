@@ -13,9 +13,8 @@ https://raw.githubusercontent.com/FranFkntastic/DalamudPlugins/main/pluginmaster
 
 | | |
 |---|---|
-| [**MarketMafioso**](https://github.com/FranFkntastic/MarketMafioso) | Free Company workshop logistics: builds material queues, checks what you and your retainers already have, and pulls it out for you. Optional self-hosted inventory history dashboard. |
+| [**MarketMafioso**](https://github.com/FranFkntastic/MarketMafioso) | It does a fuckin lot, honestly. Mostly reimplementations of dropbox, workshoppa, and a bunch of inventory management tooling used by... |
 | [**Quartermaster**](https://github.com/FranFkntastic/Quartermaster) | Keep target stock levels across your retainers, see what's short, and move items with a review step before anything happens. |
-| [**Squire**](https://github.com/FranFkntastic/Squire) | Gear planning and inventory cleanup that knows what you can still buy or craft. |
 | [**Sapphire Avenue Assistant**](https://github.com/FranFkntastic/SapphireAvenueAssistant) | Bridges a Discord channel and an in-game cross-world linkshell, without ever posting into the wrong chat. |
 
 #### Under the hood
