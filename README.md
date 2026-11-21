@@ -1,8 +1,7 @@
 ### Hey, I'm Fran 👋
 
-I build tools for Final Fantasy XIV — mostly Dalamud plugins that take the tedium out of crafting, retainers, and the market board — plus the plumbing that lets AI agents help develop them safely. Based in Ontario. Built heavily with AI assistance; the design calls are mine.
-
-**Try it live:** [xivcraftarchitect.com](https://xivcraftarchitect.com) — paste a craft list, get a priced, step-by-step shopping plan across worlds.
+I build tools for Final Fantasy XIV — mostly Dalamud plugins that take the tedium out of crafting, retainers, and the market board — plus the plumbing that lets AI agents help develop them safely. Based in Ontario. Built heavily with AI assistance, fuckin sue me.
+**Try it live:** [xivcraftarchitect.com](https://xivcraftarchitect.com) — build a craft list, get prices & market data + step-by-step shopping plans across worlds.
 
 #### Plugins
 
